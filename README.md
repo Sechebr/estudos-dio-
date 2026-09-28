@@ -8,3 +8,11 @@ https://www.youtube.com/watch?v=4fIs_ZT4-3I
 Fonte de texto:
 https://4linux.com.br/comandos-basicos-linguagem-sql/
 https://www.estrategiaconcursos.com.br/blog/banco-dados-principais-comandos-sql/
+
+Prompt teste:
+
+revise e analise cada fonte e verificando se o conteúdo é relevante, verdadeiro 
+
+Como posso iniciar na programação com SQL para iniciantes?
+
+Link do notebook:
