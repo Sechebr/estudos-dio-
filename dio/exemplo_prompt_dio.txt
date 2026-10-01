@@ -1,0 +1,80 @@
+Quero criar uma automação no N8N para [processo].
+
+Público ou responsável:
+[quem utilizará]
+
+Resultado esperado:
+[resultado desejado]
+
+
+Quero criar uma automação no N8N para registrar automaticamente leads recebidos por formulário.
+
+Público ou responsável:
+Equipe comercial.
+
+Resultado esperado:
+Salvar os dados em uma planilha e enviar uma notificação para o time de vendas.
+
+------------------------------------------
+
+Ferramentas envolvidas:
+[lista de ferramentas]
+
+Fluxo desejado:
+1. [etapa 1]
+2. [etapa 2]
+3. [etapa 3]
+
+Regras importantes:
+[restrições, validações ou exceções]
+
+Ferramentas envolvidas:
+Google Forms, Google Sheets e Gmail.
+
+
+Fluxo desejado:
+1. Receber uma nova resposta do formulário.
+2. Registrar os dados na planilha.
+3. Enviar um e-mail de confirmação.
+
+Regras importantes:
+Ignorar registros sem e-mail válido.
+
+----------------------------------------
+
+Atue como um especialista em N8N.
+
+Crie uma automação para [processo].
+
+Público:
+[público]
+
+Ferramentas envolvidas:
+[ferramentas]
+
+Fluxo:
+[etapas]
+
+Regras:
+[regras]
+
+Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
+
+
+Atue como um especialista em N8N.
+
+Crie uma automação para registrar leads recebidos por formulário.
+
+Público:
+Equipe comercial.
+
+Ferramentas envolvidas:
+Google Forms, Google Sheets e Gmail.
+
+Fluxo:
+Receber uma resposta, salvar os dados na planilha e enviar um e-mail de confirmação.
+
+Regras:
+Ignorar registros sem e-mail válido.
+
+Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
